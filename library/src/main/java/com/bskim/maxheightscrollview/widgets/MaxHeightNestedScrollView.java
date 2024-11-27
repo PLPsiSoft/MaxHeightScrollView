@@ -2,8 +2,9 @@ package com.bskim.maxheightscrollview.widgets;
 
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.support.v4.widget.NestedScrollView;
 import android.util.AttributeSet;
+
+import androidx.core.widget.NestedScrollView;
 
 import com.bskim.maxheightscrollview.R;
 import com.bskim.maxheightscrollview.UIUtils;

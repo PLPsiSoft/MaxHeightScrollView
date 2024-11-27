@@ -1,11 +1,11 @@
 package com.bskim.maxheightscrollview.demo;
 
+import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 
 import com.bskim.maxheightscrollview.widgets.MaxHeightScrollView;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
